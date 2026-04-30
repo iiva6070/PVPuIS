@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "flU3UhflTgM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Web1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.servicefabric\\11.4.205-rc\\microsoft.servicefabric.11.4.205-rc.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.abstractions\\8.4.205-rc\\microsoft.servicefabric.aspnetcore.abstractions.8.4.205-rc.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.kestrel\\8.4.205-rc\\microsoft.servicefabric.aspnetcore.kestrel.8.4.205-rc.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.servicefabric.data\\8.4.205-rc\\microsoft.servicefabric.data.8.4.205-rc.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\8.4.205-rc\\microsoft.servicefabric.data.extensions.8.4.205-rc.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\8.4.205-rc\\microsoft.servicefabric.data.interfaces.8.4.205-rc.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\8.4.205-rc\\microsoft.servicefabric.diagnostics.internal.8.4.205-rc.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.servicefabric.services\\8.4.205-rc\\microsoft.servicefabric.services.8.4.205-rc.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.20\\microsoft.aspnetcore.app.runtime.win-x64.8.0.20.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.20\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.20.nupkg.sha512",
+    "C:\\Users\\KORISNIK\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.20\\microsoft.netcore.app.runtime.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
