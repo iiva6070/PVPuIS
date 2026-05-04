@@ -1,3 +1,10 @@
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.ServiceFabric.Data;
+using Microsoft.ServiceFabric.Services.Communication.AspNetCore;
+using Microsoft.ServiceFabric.Services.Communication.Runtime;
+using Microsoft.ServiceFabric.Services.Runtime;
 using System;
 using System.Collections.Generic;
 using System.Fabric;
@@ -5,14 +12,11 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.ServiceFabric.Services.Communication.AspNetCore;
-using Microsoft.ServiceFabric.Services.Communication.Runtime;
-using Microsoft.ServiceFabric.Services.Runtime;
-using Microsoft.ServiceFabric.Data;
-using Microsoft.EntityFrameworkCore;
 using Web1.Data;
+using Web1.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace Web1
 {
@@ -40,6 +44,25 @@ namespace Web1
 
                         var builder = WebApplication.CreateBuilder();
 
+                        builder.Services.AddScoped<AuthService>();
+                        builder.Services.AddScoped<JwtService>();
+                        builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                        .AddJwtBearer(options =>
+                        {
+                        options.TokenValidationParameters = new TokenValidationParameters
+                        {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+
+                        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                        ValidAudience = builder.Configuration["Jwt:Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(
+                        Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]!)
+                    )
+                };
+             });
                         builder.Services.AddDbContext<AppDbContext>(options =>
                         options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
@@ -58,6 +81,7 @@ namespace Web1
                         app.UseSwagger();
                         app.UseSwaggerUI();
                         }
+                        app.UseAuthentication();
                         app.UseAuthorization();
                         app.MapControllers();
                         

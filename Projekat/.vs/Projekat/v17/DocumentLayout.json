@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\web1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\web1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\web1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\web1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\models\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\models\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\models\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\models\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\models\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\models\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\models\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\models\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\web1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\web1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\web1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -29,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\models\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\models\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\web1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CA63887E-F4FF-4E63-B9BF-09C546D94F07}|Web1\\Web1.csproj|solutionrelative:web1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA1EFAD-F58A-49EA-8FDD-655BF6467495}|Projekat\\Projekat.sfproj|c:\\users\\korisnik\\desktop\\pvpuis\\projekat\\projekat\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -86,11 +114,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 17,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Web1\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Web1\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:09:19.341Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:34:49.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Web1\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Services\\AuthService.cs",
+              "RelativeToolTip": "Web1\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:31:10.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "Web1\\Services\\JWTService.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Services\\JWTService.cs",
+              "RelativeToolTip": "Web1\\Services\\JWTService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:29:21.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "Web1\\Models\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "Web1\\Models\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:14:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Web1\\Models\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "Web1\\Models\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:14:14.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Web1\\Models\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Web1\\Models\\DTOs\\Auth\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:13:28.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Web1.http",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Web1.http",
               "RelativeDocumentMoniker": "Web1\\Web1.http",
@@ -102,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\libman.json",
               "RelativeDocumentMoniker": "Web1\\libman.json",
@@ -126,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Projekat\\packages.config",
               "RelativeDocumentMoniker": "Projekat\\packages.config",
@@ -138,56 +263,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\appsettings.json",
               "RelativeDocumentMoniker": "Web1\\appsettings.json",
               "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\appsettings.json",
               "RelativeToolTip": "Web1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-01T08:46:20.97Z"
+              "WhenOpened": "2026-05-01T08:46:20.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Web1.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Web1.cs",
               "RelativeDocumentMoniker": "Web1\\Web1.cs",
               "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Web1.cs",
               "RelativeToolTip": "Web1\\Web1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:43:13.952Z"
+              "WhenOpened": "2026-05-01T08:43:13.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Program.cs",
               "RelativeDocumentMoniker": "Web1\\Program.cs",
               "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Program.cs",
               "RelativeToolTip": "Web1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:33:59.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T08:33:59.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Web1\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Web1\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T08:32:34.893Z"
+              "WhenOpened": "2026-05-01T08:32:34.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "QuestionType.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\Entities\\QuestionType.cs",
               "RelativeDocumentMoniker": "Web1\\Models\\Entities\\QuestionType.cs",
@@ -199,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "UserAnswer.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\Entities\\UserAnswer.cs",
               "RelativeDocumentMoniker": "Web1\\Models\\Entities\\UserAnswer.cs",
@@ -211,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\Entities\\Result.cs",
               "RelativeDocumentMoniker": "Web1\\Models\\Entities\\Result.cs",
@@ -223,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Answer.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\Entities\\Answer.cs",
               "RelativeDocumentMoniker": "Web1\\Models\\Entities\\Answer.cs",
@@ -235,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Question.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\Entities\\Question.cs",
               "RelativeDocumentMoniker": "Web1\\Models\\Entities\\Question.cs",
@@ -247,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Quiz.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\Entities\\Quiz.cs",
               "RelativeDocumentMoniker": "Web1\\Models\\Entities\\Quiz.cs",
@@ -259,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Web1\\Models\\Entities\\Category.cs",
@@ -271,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Web1\\Models\\Entities\\User.cs",
@@ -283,19 +410,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Web1.csproj",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Web1.csproj",
               "RelativeDocumentMoniker": "Web1\\Web1.csproj",
               "ToolTip": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\Web1.csproj",
               "RelativeToolTip": "Web1\\Web1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-01T08:11:36.677Z"
+              "WhenOpened": "2026-05-01T08:11:36.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "ServiceManifest.xml",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Web1\\PackageRoot\\ServiceManifest.xml",
               "RelativeDocumentMoniker": "Web1\\PackageRoot\\ServiceManifest.xml",
@@ -307,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "ApplicationManifest.xml",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Desktop\\PVPuIS\\Projekat\\Projekat\\ApplicationPackageRoot\\ApplicationManifest.xml",
               "RelativeDocumentMoniker": "Projekat\\ApplicationPackageRoot\\ApplicationManifest.xml",
@@ -316,14 +444,6 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2026-05-01T07:30:27.467Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

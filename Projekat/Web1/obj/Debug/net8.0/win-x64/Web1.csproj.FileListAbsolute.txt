@@ -458,10 +458,12 @@ C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\staticwe
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\staticwebassets.build.json.cache
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\staticwebassets.development.json
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\staticwebassets.build.endpoints.json
-C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\staticwebassets.upToDateCheck.txt
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\Web1.csproj.Up2Date
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\Web1.dll
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\refint\Web1.dll
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\Web1.pdb
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\Web1.genruntimeconfig.cache
 C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\ref\Web1.dll
+C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\bin\Debug\net8.0\win-x64\BCrypt.Net-Next.dll
+C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\bin\Debug\net8.0\win-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\KORISNIK\Desktop\PVPuIS\Projekat\Web1\obj\Debug\net8.0\win-x64\staticwebassets.upToDateCheck.txt
