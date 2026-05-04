@@ -11,6 +11,8 @@ using Microsoft.ServiceFabric.Services.Communication.AspNetCore;
 using Microsoft.ServiceFabric.Services.Communication.Runtime;
 using Microsoft.ServiceFabric.Services.Runtime;
 using Microsoft.ServiceFabric.Data;
+using Microsoft.EntityFrameworkCore;
+using Web1.Data;
 
 namespace Web1
 {
@@ -37,6 +39,9 @@ namespace Web1
                         ServiceEventSource.Current.ServiceMessage(serviceContext, $"Starting Kestrel on {url}");
 
                         var builder = WebApplication.CreateBuilder();
+
+                        builder.Services.AddDbContext<AppDbContext>(options =>
+                        options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
                         builder.Services.AddSingleton<StatelessServiceContext>(serviceContext);
                         builder.WebHost
